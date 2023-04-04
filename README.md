@@ -24,6 +24,6 @@ The following were incorporated:
 
 ## Key Features & User Guide
 The interface is designed with flexbility in order to enhance user experience. Use the below buttons described
-![texture theme preview](/screen1.png)
+![texture theme preview](userguide.PNG)
 
 
