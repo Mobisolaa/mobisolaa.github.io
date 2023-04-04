@@ -13,13 +13,13 @@ Megawidget is a computer manufacturing company about to make some capital invest
 **_Disclaimer_** : _This is not a real company, it is an assignment task carried out as part of my coursework. 
 
 ## Skills Demonstrated
-The following were incorporated;
+The following were incorporated:
 
--Page Navigation
--Data Table
--UserForm
--Filters
--Macros
+-Page Navigation,
+-Data Table,
+-UserForm,
+-Filters,
+-Macros,
 -Visual Basic for Applications (VBA)
 
 ## Key Features & User Guide
